@@ -1,4 +1,8 @@
-﻿using Microsoft.Win32;
+﻿// Curt Lynch
+// 3/2/2023
+// FindPiThread class
+
+using Microsoft.Win32;
 using System;
 using System.Collections.Generic;
 using System.Linq;
